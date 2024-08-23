@@ -1,2 +1,2 @@
 # tec-Counter
-counter projects
+counter projects and from tec1 mag
